@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "bio.html",
+    "href": "bio.html",
+    "title": "Bio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Tianen (Evan) Hao, an enthusiastic social media strategist and a student at the University of Toronto, specializing in User Experience Design. My journey has been about blending analytical insights with creative marketing strategies to elevate user engagement across platforms like TikTok and Bilibili. With experience in roles at miHoYo Toronto and Pinnacle Education, I’ve focused on boosting ROI through community engagement and innovative content strategies. Beyond my marketing endeavors, I’m a skilled video editor and animator, proficient in Adobe Creative Suite, Microsoft Office, and Unity Modelling. Fluent in Mandarin and dedicated to excellence, I serve as a Microsoft Learn Student Ambassador and hold leadership positions within the We Secondary Students Committee Toronto, striving to make a meaningful impact in the digital communication sphere."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tianen (Evan) Hao",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a content creator on bilibili and TikTok CN and produce animated videos for miHoYo through commercial contracts.\nSelected Media Channels:\n\nBilibili - 呵纹Hevon (miHoYo 2D Animation)\nBilibili - 早板鸭 (Honkai-only 3D Animation)\nTikTok - 早板鸭 (miHoYo 3D Animation)"
   },
   {
     "objectID": "contact.html",
@@ -21,10 +21,17 @@
     "text": "You can email me at evan.hao@mail.utoronto.ca"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tianen (Evan) Hao",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "About",
     "section": "",
-    "text": "I am a content creator on bilibili and TikTok CN and produce animated videos for miHoYo through commercial contracts."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
